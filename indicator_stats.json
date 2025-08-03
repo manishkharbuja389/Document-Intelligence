@@ -1,0 +1,41 @@
+[
+  {
+    "document": "20250507_TLP-CLEAR_NP_SGDSN_VIGINUM_Technical report_Storm-1516.pdf",
+    "chunks": 249,
+    "indicators": {
+      "domains": 434,
+      "urls": 235,
+      "ips": 0,
+      "emails": 1,
+      "phones": 0,
+      "socials": 5,
+      "tracking_ids": 0
+    }
+  },
+  {
+    "document": "Operation_Overload_WEB.pdf",
+    "chunks": 291,
+    "indicators": {
+      "domains": 53,
+      "urls": 80,
+      "ips": 9,
+      "emails": 3,
+      "phones": 0,
+      "socials": 1,
+      "tracking_ids": 0
+    }
+  },
+  {
+    "document": "technischer-bericht-desinformationskampagne-doppelgaenger-1--data.pdf",
+    "chunks": 131,
+    "indicators": {
+      "domains": 63,
+      "urls": 56,
+      "ips": 13,
+      "emails": 0,
+      "phones": 0,
+      "socials": 0,
+      "tracking_ids": 0
+    }
+  }
+]
