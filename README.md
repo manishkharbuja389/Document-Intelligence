@@ -144,6 +144,8 @@ GET /queries/semantic?q=What Russian disinformation campaigns target France?
   ...
 ]
 ```
+Visualization of Common indicators between files extracted from Neo4j Browser.
+<img width="1017" height="498" alt="visualisation" src="https://github.com/user-attachments/assets/7cbd6067-413d-4b37-8c9b-6402002b6cbc" />
 
 ---
 
@@ -178,3 +180,4 @@ Built by Manish Kharbuja · For evaluation or collaboration, reach out via GitHu
 ---
 
 📌 *This project showcases an AI-first approach to processing threat intelligence using NLP, Graphs, and Semantic Search.*
+
